@@ -1,0 +1,22 @@
+.calendar {
+    max-width: 700px;
+}
+
+/* .cell-styling{
+    padding: 2rem 0 !important;
+} */
+
+.cell-styling:hover{
+    background-color: lightgrey !important;
+    cursor: pointer !important;
+}
+
+.cell-styling:focus{
+    background-color: lightgrey !important;
+    cursor: pointer !important;
+}
+
+.cell-styling:active{
+    background-color: lightgrey !important;
+    cursor: pointer !important;
+}
